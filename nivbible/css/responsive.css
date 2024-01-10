@@ -1,0 +1,492 @@
+@media screen and (max-width: 1439px) { 
+
+	.resources-bar .resource-item figure img { height: 490px; }
+	.resources-bar .resource-item .textmid { min-height: 175px; }
+	
+	.bloglist-bar .featured-blog { padding: 50px 20px 0px; }
+	.bloglist-bar .news-item .infos { padding: 40px 40px 0px 100px; }
+	.bloglist-bar .news-item h1 { height: 200px; }
+	.bloglist-bar .firstbg { height: 280px; }
+	.postdetails-bar .mainimg { max-width: 620px; margin: 0px -40px 20px 28px; }
+	
+	.mainbanner-bar.compare { height: 500px; }
+	.mainbanner-bar.compare h1 { left: 80px; font-size: 90px; line-height: 90px; }
+	
+	.faqs-bar .title { width: auto; }
+	
+	.mainbanner-bar h1 { left: 70px; }
+	
+	.page-template-compare-bible-translations .mainbanner-bar.compare.resheight {
+		height: auto;
+		min-height: inherit;
+	}
+	
+}
+
+@media screen and (max-width: 1279px) { 
+
+	#header-part .logobg { padding: 0px 0px 0px 5px; }
+	#header-part .navmenu { padding: 0px; }
+	#header-part #menu li { padding: 0 20px; }
+	
+	.banner-bar figure.bg img { height: 550px; }
+	.banner-bar .text h1 { font-size: 90px; line-height: 80px; }
+	.banner-bar .text { bottom: 60px; }
+	.banner-bar .text h1 span { font-size: 45px; }
+	
+	.intro-bar .text p { padding: 0 0px 20px; }
+	
+	.findabible-bar .container { min-height: 670px; }
+	.findabible-bar .text { padding: 0px 0px 0px 0px; max-width: 500px; }
+	.findabible-bar p { padding-bottom: 70px; }
+	
+	.latestblog-bar { padding: 80px 0px 80px 0px; }
+	.latestblog-bar .latestposts figure img { height: 400px; }
+	.latestblog-bar .latestposts .text { height: 205px; }
+	.latestblog-bar .latestposts .innertext { padding: 30px 20px 0px 20px; }
+	.latestblog-bar .latestposts .postright .innertext { padding: 30px 20px 0px 20px; }
+	
+	.resources-bar .resource-item figure img { height: 410px; }
+	.resources-bar .resource-item .textmid { min-height: 205px; }
+	.resources-bar .resource-item .content { padding-bottom: 25px; }
+	
+	.bloglist-bar .news-item .infos { padding: 30px 40px 0px 50px; }
+	.bloglist-bar .filterbox li a { padding: 30px 22px; }
+	.bloglist-bar .filterbox .searchbar { width: 350px; margin-left: 25px; }
+	.bloglist-bar .newslist .news-itemlist figure img { height: 320px; }
+	.bloglist-bar .newslist .news-itemlist .infos { padding: 15px 20px 15px; }
+	.bloglist-bar .newslist .news-itemlist h3 { font-size: 19px; }
+	
+	.signupblog-bar .formimg .fieldbg { width: calc(100vw - 127px); }
+	.signupblog-bar .formimg .imgright { padding-right: 0px; display: flex; justify-content: flex-end; }
+	.signupblog-bar .intro { padding: 0px 50px 30px 50px; }
+	.signupblog-bar .formimg { padding: 0px 50px 0px 50px; }
+	
+	.postdetails-bar .mainimg { max-width: 520px; margin: 0px 10px 20px 28px; }
+	.postdetails-bar .firstbg { height: 300px; }
+	.comment-box .comment-mid { padding: 0 70px 0 30px; }
+	.postdetails-bar .featured-product figure { padding: 0px 50px 0px 0px; }
+	.postdetails-bar .authordetails figure { padding-right: 50px; }
+	
+	.mainbanner-bar.compare { height: 450px; }
+	.mainbanner-bar.compare h1 { left: 40px; font-size: 80px; line-height: 80px; top: 10px; }
+	.mainbanner-bar.compare h1 strong { font-size: 50px; }
+	.mainbanner-bar.search h1 { left: 40px; font-size: 50px; line-height: 70px; }
+	.mainbanner-bar.search h1 strong { font-size: 90px; }
+	
+	.searchfield-bar .container, .results-bar .container { padding: 0 40px; }
+	
+	.comparison-bar .container { padding: 0 30px; }
+	
+	.mainbanner-bar h1 { left: 50px; font-size: 65px; }
+	
+	.teamcontent-bar .teamlist { padding: 10px 40px 0px 40px; }
+	.teamcontent-bar .intro { padding: 0 40px 30px; }
+
+	.text-bar h1 { font-size: 35px; line-height: 45px; } 
+	.text-bar h2 { font-size: 30px; line-height: 40px; }
+	.text-bar h3, .postdetails-bar h3 { font-size: 17px; line-height: 22px; }
+	.text-bar h4, .postdetails-bar h4 { font-size: 14px; line-height: 18px; }
+	.text-bar h5 { font-size: 14px; line-height: 22px; }
+	
+	#footer-part .footer-top .column1 { width: 37.34%; }
+	
+	
+	
+}
+@media screen and (min-width: 1024px) { 
+	
+	#header-part #menu li:hover > ul { display: block; }
+
+}
+
+@media screen and (max-width: 1023px) { 
+
+	p { font-size: 18px; line-height: 27px; }
+	body:not(.home) h2 { font-size: 22px; line-height: 45px; }
+	h3 { font-size: 30px; }
+
+	#wrapper { padding-top: 50px; }
+	#header-part { height: 50px; }
+	#header-part .logobg a { max-width: 70px; }
+	#header-part a.menu_trigger { margin-right: 80px; z-index: 10; display: block; font-size: 0px; width: 28px; height: 22px; position: relative; }
+	#header-part a.menu_trigger span { display: block; width: 100%; height: 2px; background: #fff; }
+	#header-part a.menu_trigger span:before,
+	#header-part a.menu_trigger span:after { content: ""; position: absolute; left: 0px; top: 8px; width: 100%; height: 2px; background: #fff; }
+	#header-part a.menu_trigger span:after { top: 16px; }
+	#header-part div.searchform { width: 200px; position: absolute; right: 20px; top: 7px; height: 40px; overflow: hidden; }
+	#header-part div.searchform.active1 { overflow: visible; z-index: 10; }
+	#header-part .searchform .searchform { padding-top: 0px; position: absolute; right: -200px; top: 0px; width: 200px; }
+	#header-part .searchform .searchform.active { right: 0px; }
+	#header-part .searchform input#s { background-position: right 10px center; }
+	#header-part .searchform a.mobilesearch { display: block; position: absolute; right: 0px; top: 0px; width: 40px; height: 32px; font-size: 0px; background: url(../images/search-icon1.png) center no-repeat; background-size: 18px; }
+	#header-part .searchform a.mobilesearch.curr1 { right: 200px; }
+	#header-part a.clsoebtn { display: block; position: absolute; left: 15px; top: 15px; color: #fff; font-family: 'Open Sans', sans-serif; font-size: 20px; }
+	#header-part #menu { padding-top: 100px; display: none; position: fixed; right: 0px; top: 0px; width: 373px; max-width: 100%; height: 100%; z-index: 10; background: #003C71; }
+	#header-part #menu ul { display: block; padding: 0px; }
+	#header-part #menu ul li { padding: 0 0 15px; }
+	#header-part #menu ul li a { padding: 0 20px; font-size: 16px; font-weight: 500; letter-spacing: 0.2px; position: relative; }
+	#header-part #menu ul li.menu-item-has-children > a:after { content: '>'; position: absolute; right: -30px; top: 0px; transform: rotate(90deg); font-family: 'Open Sans', sans-serif; }
+	#header-part #menu ul li ul { position: relative; left: 0px; top: 0px; width: 100%; margin-top: 10px; }
+	#header-part #menu ul li ul li a { display: inline-block; }
+	#header-part #menu ul li ul li ul { left: 0px; background: none; width: auto; }
+	#header-part #menu li ul:before { display: none; }
+	
+	.banner-bar figure.bg img { height: 370px; }	
+	.banner-bar .text { left: 45px; bottom: 55px; }
+	.banner-bar .text h1 { font-size: 60px; line-height: 60px; }
+	.banner-bar .text h1 span { font-size: 28px; }
+	.banner-bar .logotext { right: 0px; top: 42px; width: 160px; }
+	.banner-bar .logotext img { max-width: 70px; }
+	.banner-bar .logotext p { font-size: 14px; line-height: 22px; letter-spacing: 2.21px; }
+	
+	.intro-bar h2, .intro-bar h1 { font-size: 35px; line-height: 45px; }
+	.intro-bar ul.buttonlist { max-width: 505px; }
+	.intro-bar ul.buttonlist li { padding: 0 23px 34px; width: 50%; }
+	.intro-bar .text { padding-bottom: 30px; max-width: 640px; }
+	.intro-bar { padding: 45px 0px 40px 0px; }
+	
+	.findabible-bar .container { min-height: 445px; }
+	.findabible-bar .text { padding: 0px 0px 0px 0px; max-width: 400px; }
+	.findabible-bar { background-position: center; }
+	.findabible-bar figure { padding-bottom: 25px; }
+	.findabible-bar figure img { max-width: 30px; }
+	.findabible-bar h3 { padding-bottom: 15px; font-size: 30px; line-height: 40px; }
+	.findabible-bar p { padding-bottom: 20px; }
+	.findabible-bar a.button { padding: 7px 20px; font-size: 14px; }
+	
+	.latestblog-bar { padding: 60px 0px 45px 0px; }
+	.latestblog-bar .intro { padding: 0 20px 20px 20px; max-width: 710px; }
+	.latestblog-bar .latestposts figure img { height: 280px; }
+	.latestblog-bar .latestposts .text { height: 240px; }
+	.latestblog-bar .latestposts .innertext h4 { padding-bottom: 10px; font-size: 17px; line-height: 22px; }
+	
+	.resources-bar .page-title { padding: 0 15px 10px; max-width: 710px; }
+	.resources-bar h2 { font-size: 30px; }
+	.resources-bar .resource-item figure img { height: 285px; }
+	.resources-bar .resource-item h4 { font-size: 17px; line-height: 22px; }
+	.resources-bar .resource-item a.button { padding-left: 8px; padding-right: 8px; margin: 0 5px;	width: 88px; font-size: 11px;}
+	.resources-bar .resource-item .textmid { min-height: 235px; }
+	
+	.bloglist-bar .news-item h1 { height: 170px; font-size: 35px; line-height: 45px; }
+	.bloglist-bar .news-item .infos { padding: 0px 30px 0px 50px; }
+	.bloglist-bar .firstbg { height: 220px; }
+	.bloglist-bar .news-item { padding-bottom: 40px; }
+	.bloglist-bar .filterbox li a { padding: 30px 15px; font-size: 14px; }
+	.bloglist-bar .filterbox .searchbar { width: 250px; margin-left: 15px; }
+	.bloglist-bar .newslist .news-itemlist figure img { height: 210px; }
+	.bloglist-bar .newslist .news-itemlist h3 { font-size: 17px; line-height: 22px; }
+	.bloglist-bar .newslist .news-itemlist .infos { padding: 15px; }
+	.bloglist-bar .pagination li { padding: 6px 10px; margin: 0 3px; }
+	.bloglist-bar .newslist { padding-top: 0px; }
+	
+	.signupblog-bar { padding: 50px 0px; margin: 50px 0 50px; }
+	.signupblog-bar .formimg .imgright { align-items: flex-start;  }
+	.signupblog-bar .formimg .fieldbg { padding-bottom: 20px; }
+	
+	.postdetails-bar .mainimg { max-width: 380px; margin: 0px 0px 20px 20px; }
+	.postdetails-bar .firstbg { height: 240px; }
+	.postdetails-bar h1 { padding: 20px 0px 20px 0px; height: 225px; font-size: 35px; line-height: 45px; }
+	.postdetails-bar .entry h1 { height: auto; }
+	.postdetails-bar h2 { font-size: 30px; line-height: 40px; }
+	.postdetails-bar h4 { font-size: 17px; line-height: 22px; }
+	.postdetails-bar .featured-product .product-box { padding: 35px 0px; }
+	.postdetails-bar .featured-product p { padding-bottom: 30px; }
+	.postdetails-bar .authordetails { padding: 40px 0px; }
+	.comment-box h2 { font-size: 30px; }
+	
+	.mainbanner-bar.compare { height: 300px; }
+	.mainbanner-bar.compare h1 { left: 30px; font-size: 60px; line-height: 55px; top: 10px; }
+	.mainbanner-bar.compare h1 strong { font-size: 35px; }
+	.comparison-bar .container { padding: 0 30px; }
+	.comparison-bar { padding: 50px 0px; }
+	.comparison-bar .selcetdropdown { max-width: 310px; }
+	.comparison-bar .selcetdropdown a.selectverse { font-size: 12px; }
+	.comparison-bar .restulbox { padding: 40px 0px 0px 0px; }
+	.comparison-bar .restulbox h2 { font-size: 35px; line-height: 45px; }
+	.comparison-bar .restulbox h3 { font-size: 16px; border: 0px; }
+	.comparison-bar .restulbox p { font-size: 13px; line-height: 19px; }
+	.comparison-bar .restulbox .details { padding: 30px 25px 10px 25px; }
+	.comparison-bar .restulbox .blockmid h4 { font-size: 16px; }
+	.comparison-bar .restulbox .blockmid .column p { font-size: 11px; line-height: 15px; }
+	.comparison-bar .restulbox .blockmid .column .textmid { padding: 15px; min-height: 390px; 	}
+	.comparison-bar .buttons-box { max-width: 300px; }
+	
+	.mainbanner-bar.search h1 { padding-bottom: 0px; left: 40px; font-size: 35px; line-height: 45px; }
+	.mainbanner-bar.search h1 strong { font-size: 65px; line-height: 1; }
+	.mainbanner-bar.search { height: 200px; }
+	
+	.searchfield-bar { padding: 30px 0px 25px; }
+	.results-bar .search_tag { font-size: 30px; line-height: 40px; }
+	.results-bar h3 { font-size: 17px; line-height: 22px; }
+	
+	.mainbanner-bar { height: 200px; }
+	
+	.faqs-bar h1 { font-size: 35px; line-height: 45px; }
+	
+	.mainbanner-bar h1 { font-size: 55px; line-height: 65px; left: 30px; bottom: 0px; padding-bottom: 15px; }
+	.teamcontent-bar { padding: 50px 0px 0px; }
+	.teamcontent-bar .intro { padding: 0 20px 20px; }
+	.teamcontent-bar .teamlist { padding: 10px 20px 0px 20px; }
+	.teamcontent-bar .teamlist .details { padding: 0px 0px 0px 25px; }
+	.teamcontent-bar .teamlist h4 { font-size: 22px; }
+	
+	.introblog-bar { padding: 60px 0px 30px; }
+	.introblog-bar h2 { padding-bottom: 25px; font-size: 35px; line-height: 40px; }
+	.introblog-bar .featured-posts .blog-item figure img { height: 300px; }
+	.introblog-bar .featured-posts .blog-item .infos { padding: 20px 20px 5px; }
+	.introblog-bar .featured-posts .blog-item a.textlink { left: 20px; }
+	.introblog-bar.fourcol .featured-posts .blog-item figure img { height: 300px; }
+	.introblog-bar.fourcol .featured-posts .blog-item .infos { padding: 20px; }
+	
+	.encourage-bar .innercontent { padding-right: 0px; width: 100%; max-width: 400px; }
+	.encourage-bar { padding: 45px 0px; background-position: center; }
+	.encourage-bar figure { padding-bottom: 25px; }
+	.encourage-bar h3 { padding-bottom: 20px; font-size: 35px; line-height: 45px; }
+	.encourage-bar ul li { padding-bottom: 20px; }
+	
+	.imgcontent-bar .text { padding: 0px 20px 0px 20px; }
+	.imgcontent-bar h3 { padding-bottom: 20px; }
+	.imgcontent-bar h4 { padding-bottom: 20px; font-size: 18px; line-height: 22px; }
+	.imgcontent-bar { padding: 40px 0px 70px; }
+	
+	.endorsements-bar { padding: 40px 0px 20px 0px; }
+	.endorsements-bar h1 { font-size: 35px; line-height: 45px; padding-bottom: 0px; }
+	.endorsements-bar .endorsments-list h4 { font-size: 30px; line-height: 40px; }
+	.endorsements-bar .endorsments-list figure { margin: 0px 0px 0px 20px; }
+	.endorsements-bar .endorsments-list .youtubevid { width: 448px; max-width: 50%; margin-left: 20px; }
+	
+	#footer-part .footer-top .column2 { padding: 0px 0 30px 50px; width: 50%; order: 1; }
+	#footer-part .footer-top .column1 { padding: 30px 0 0 50px; width: 100%; order: 4; }
+	#footer-part { padding: 55px 0px 30px; }
+	#footer-part .footer-top { padding-bottom: 30px; }
+	#footer-part .footer-bottom { padding-left: 50px; }
+	
+	.freeresources-bar .resource-bundle .resource-item,
+	.freeresources-bar .threecol .resource-bundle .resource-item { width: 50%; }
+
+}
+
+@media screen and (max-width: 767px) { 
+
+	body:not(.home) h2 { font-size: 17px; line-height: 40px; }
+	h3 { font-size: 30px; }
+	
+	p { font-size: 18px; line-height: 27px; }
+	
+	.button { padding: 7px 20px; line-height: 23px; font-size: 13px; }
+
+	.banner-bar figure.bg img { height: 280px; }	
+	.banner-bar .text { left: 15px; bottom: 5px; }
+	.banner-bar .text h1 { font-size: 45px; line-height: 45px; }
+	.banner-bar .text h1 span { font-size: 20px; }
+	.banner-bar .logotext { right: 0px; top: 20px; width: 100px; }
+	.banner-bar .logotext img { max-width: 55px; }
+	.banner-bar .logotext p { font-size: 10px; line-height: 16px; letter-spacing: 1px; }
+	
+	.intro-bar h2, .intro-bar h1 { padding-bottom: 20px; font-size: 30px; line-height: 40px; }
+	.intro-bar ul.buttonlist { max-width: 390px; }
+	.intro-bar ul.buttonlist li { padding: 0 5px 10px; width: 50%; }
+	.intro-bar .text { padding-bottom: 20px; }
+	.intro-bar { padding: 30px 0px 40px 0px; }
+	.intro-bar ul.buttonlist li a.button { max-width: 100%; padding: 5px 10px; font-size: 11px; }
+	
+	.findabible-bar { background-position: top left; background-size: 100%; }
+	.findabible-bar .container { min-height: inherit; padding: 185px 0px 0px; }
+	.findabible-bar .text { padding: 30px 20px 35px 20px; max-width: 400px; background: #27221e; }
+	.findabible-bar figure { padding-bottom: 25px; }
+	.findabible-bar figure img { max-width: 25px; }
+	.findabible-bar p { padding-bottom: 20px; }
+	.findabible-bar a.button { padding: 7px 20px; font-size: 14px; }
+	
+	.latestblog-bar { padding: 50px 0px 45px 0px; }
+	.latestblog-bar .intro h3 { padding-bottom: 10px; font-size: 25px; }
+	.latestblog-bar .intro { padding: 0 20px 20px 20px; max-width: 710px; }
+	.latestblog-bar .latestposts figure img { height: auto; }
+	.latestblog-bar .latestposts .text { height: 240px; }
+	.latestblog-bar .latestposts .innertext h4 { padding-bottom: 10px; font-size: 17px; line-height: 22px; }
+	.latestblog-bar .latestposts .postleft, .latestblog-bar .latestposts .postright { width: 100%; border: 0px; border-bottom: #fff solid 1px; }
+	
+	.resources-bar .page-title { padding: 0 15px 10px; }
+	.resources-bar h2 { font-size: 25px; }
+	.resources-bar .resource-item { width: 100%; padding-bottom: 15px; }
+	.resources-bar .resource-item figure img { height: auto; }
+	.resources-bar .resource-item h4 { font-size: 17px; line-height: 22px; }
+	.resources-bar .resource-item .textmid { min-height: inherit; }
+	.resources-bar .buttonbg a.button { min-width: 192px; font-size: 11px; }
+	
+	.bloglist-bar .firstbg { height: 144px; }
+	.bloglist-bar .news-item figure { padding-top: 10px; width: 100%; }
+	.bloglist-bar span.mobilehead { display: block; height: 144px; width: 100%; color: #FFF; font-family: 'EB Garamond', serif; font-size: 30px; font-style: normal; font-weight: 500; line-height: 40px; letter-spacing: 0.3px; }
+	.bloglist-bar .news-item span.subtitle { display:none; }
+	.bloglist-bar .news-item span.mobilesub { display: block; font-size:22px; width: 100%; padding-bottom: 0px; }
+	.bloglist-bar .featured-blog { padding: 10px 20px 0px; }
+	.bloglist-bar .news-item .infos { padding: 0px 0px 0px 0px; width: 100%; }
+	.bloglist-bar .featured-blog .news-item h1 { display: none; } 
+	.bloglist-bar .featured-blog .news-item p { padding-bottom: 10px; }  
+	.bloglist-bar .news-item a.button { padding: 7px 35px; font-size: 12px; }
+	.bloglist-bar .filterbox ul { padding: 0px 10px 0px 10px; border-bottom: #fff solid 3px; width: 100%; }
+	.bloglist-bar .filterbox li { width: 25%; }
+	.bloglist-bar .filterbox li a { padding: 20px 10px; height: 75px; display: flex; align-items: center; font-size: 12px; line-height: 15px; }
+	.bloglist-bar .filterbox li a.active:before { left: 5px; transform: translateX(0); border: transparent solid 15px; border-bottom: #fff solid 15px; }
+	.bloglist-bar .filterbox .searchbar { padding: 20px; width: 100%; margin: 0px; }
+	.bloglist-bar .newslist .news-itemlist { width: 50%; }
+	.bloglist-bar .newslist .news-itemlist h3 { font-size: 15px; line-height: 20px; }
+	
+	.signupblog-bar { padding: 30px 0px; margin: 40px 0; }
+	.signupblog-bar .intro { padding: 0px 10px 30px 10px; }
+	.signupblog-bar .formimg { padding: 0px 10px 0px 10px; }
+	.signupblog-bar .formimg .fieldbg label { width: 70px; }
+	.signupblog-bar .formimg .fieldbg input { width: calc(100% - 70px); }
+	.signupblog-bar .formimg .fieldbg { width: calc(100vw - 40px); }
+	.signupblog-bar .formimg .imgright { padding-top: 240px; padding-right: 0px; }
+	
+	.postdetails-bar { padding-top: 5px; }
+	.postdetails-bar .container { display: flex; flex-wrap: wrap; }
+	.postdetails-bar .page-title { width: 100%; order: 1; }
+	.postdetails-bar .mainimg { max-width: 100%; float: none; margin: 0px 0px 20px 0px; width: 100%; order: 2; }
+	.postdetails-bar .entry { order: 3; }
+	.postdetails-bar .featured-product { order: 4; }
+	.postdetails-bar .authordetails { order: 5; }
+	.postdetails-bar .navigation { padding: 30px 0px 30px; order: 6; }
+	.postdetails-bar .firstbg { height: 145px; }
+	.postdetails-bar h1 { padding: 0px 0px 20px 0px; height: 165px; font-size: 30px; line-height: 40px; }
+	.postdetails-bar .entry h1 { height: auto; }
+	.postdetails-bar h2 { font-size: 25px; line-height: 30px; }
+	.postdetails-bar h4 { font-size: 15px; line-height: 20px; }
+	.postdetails-bar .featured-product .product-box { display: block; overflow: hidden; }
+	.postdetails-bar .featured-product figure { padding: 0px; margin: 0 20px 20px 0; float: left; width: 125px; }
+	.postdetails-bar .featured-product .infos { width: auto; }
+	.postdetails-bar .featured-product11 h4 { font-size: 20px; line-height: 24px; }
+	.postdetails-bar .featured-product p { clear: both; }
+	.postdetails-bar .authordetails figure { padding-right: 0px; width: 105px; padding-bottom: 30px; }
+	.postdetails-bar .navigation a { margin-bottom: 10px; }
+	.postdetails-bar .authordetails .authorbio { width: 100%; }
+	
+	.comment-box { padding: 40px 0px; }
+	.comment-box h2 { padding-bottom: 0px; }
+	.comment-box .comment-mid { padding: 0 10px 0 20px; }
+	.comment-box #commentform input#submit { width: 140px; height: 40px; font-size: 12px; }
+	
+	.mainbanner-bar.compare { height: 150px; }
+	.mainbanner-bar.compare h1 { left: 20px; font-size: 28px; line-height: 35px; }
+	.mainbanner-bar.compare h1 strong { font-size: 15px; line-height: 15px; }
+	
+	.comparison-bar .container { padding: 0 15px; }
+	.comparison-bar .restulbox { padding: 20px 0px 0px 0px; }
+	.comparison-bar .restulbox h2 { font-size: 30px; line-height: 40px; padding-bottom: 15px; }	
+	.comparison-bar .restulbox h3 { text-align: left; }
+	.comparison-bar .restulbox .details { padding: 15px; min-height: 40px; }
+	.comparison-bar .restulbox .blockmid .column { width: 100%; min-height: inherit; }
+	.comparison-bar .restulbox .blockmid .column .textmid { min-height: inherit; }
+	.comparison-bar .restulbox .blockmid h4 { font-size: 14px; text-align: left; padding: 5px 20px; }
+	.comparison-bar .restulbox .block { width: 100%; }
+	
+	.mainbanner-bar.search h1 { left: 15px; font-size: 25px; line-height: 30px; bottom: auto; top: 10px; }
+	.mainbanner-bar.search { height: 175px; }
+	.mainbanner-bar.search h1 strong { font-size: 45px; }
+	
+	.searchfield-bar .container, .results-bar .container { padding: 0 15px; }
+	.searchfield-bar input#keyword { width: 100%; margin: 0px 0px 10px 0px; }
+	.searchfield-bar .powered_by { position: absolute; right: 17px; top: 50px; padding-right: 0px; }
+	.searchfield-bar input#searchsubmit { width: 125px; height: 40px; font-size: 11px; }
+	.results-bar .search_tag { padding-bottom: 20px; font-size: 25px; line-height: 35px; }
+	.results-bar h3 { font-size: 15px; }
+	
+	.mainbanner-bar { height: 150px; }
+	
+	.faqs-bar h1 { font-size: 30px; line-height: 40px; padding-bottom: 10px; }
+	.faqs-bar .faqbg h4 { padding: 8px 30px 8px 20px; font-size: 12px; line-height: 20px; }
+	.faqs-bar .faqbg h4:before { width: 14px; right: 15px; background-size: 100%; top: 18px; }
+	
+	.mainbanner-bar h1 { font-size: 40px; line-height: 45px; left: 15px; bottom: auto; top: 20px; }
+	
+	.teamcontent-bar .intro { padding: 0 0px 20px; }
+	.teamcontent-bar .intro p { font-size: 14px; line-height: 20px; }
+	.teamcontent-bar { padding-top: 30px; }
+	.teamcontent-bar .teamlist { padding: 0px 0px 0px 0px; }
+	.teamcontent-bar .teamlist figure { width: 100%; }
+	.teamcontent-bar .teamlist figure img { max-width: 100%; }
+	.teamcontent-bar .teamlist .details { padding: 25px 0px 0px 0px; width: 100%; }
+	.teamcontent-bar .teamlist .teammember { padding-bottom: 30px; }
+	
+	.introblog-bar { padding: 40px 0px 30px; }
+	.introblog-bar h2 { padding-bottom: 20px; font-size: 30px; line-height: 35px; }
+	.introblog-bar .featured-posts .blog-item { width: 100%; }
+	.introblog-bar.fourcol .featured-posts .blog-item { width: 50%; }
+	
+	.imgcontent-bar .text { padding: 0px 0px 0px 0px; width: 100%; }
+	.imgcontent-bar figure { padding: 0px 0px 30px; width: 100%; }
+	.imgcontent-bar { padding: 40px 0px; }
+	
+	.endorsements-bar { padding: 20px 0px 20px 0px; }
+	.endorsements-bar h1 { font-size: 30px; line-height: 40px; }
+	.endorsements-bar .subpages li { padding-right: 25px; }
+	.endorsements-bar .endorsments-list h4 { font-size: 25px; line-height: 30px; }
+	.endorsements-bar .endorsments-list figure { margin: 0px auto 20px auto; max-width: 100%; float: none; text-align: center; }
+	.endorsements-bar .endorsments-list figure img { margin: 0 auto; }
+	.endorsements-bar .endorsments-list .youtubevid { width: 100%; max-width: 100%; margin: 0 0 20px; }
+	
+	.freeresources-bar .resource-bundle a.button { min-width: inherit; }
+	.freeresources-bar h3 { 	padding-bottom: 20px;	font-size: 30px;line-height: 40px; }
+	
+	.text-bar h1, .text-bar h2, .text-bar h3 { font-size: 30px; line-height: 40px; } 
+	.text-bar h2 { font-size: 25px; line-height: 30px; }
+	.text-bar h3, .postdetails-bar h3 { font-size: 15px; line-height: 20px; }
+	.text-bar h4, .postdetails-bar h4 { font-size: 12px; line-height: 16px; }
+	.text-bar h5 { font-size: 14px; line-height: 22px; }
+	
+	#footer-part .footer-top .column2 { padding: 0px 15px 30px 0px; width: 100%; order: 1; }
+	#footer-part .footer-top .column1 { padding: 30px 15px 0 0px; width: 100%; order: 4; }
+	#footer-part .footer-top .column2 li { font-size: 16px; }
+	#footer-part { padding: 55px 0px 30px; }
+	#footer-part .footer-top { padding-bottom: 30px; }
+	#footer-part .footer-bottom { padding-left: 0px; }
+	.bloglist-bar .socialsharebuttons { padding-top: 25px; display: block !important; }
+	.bloglist-bar .socialsharebuttons .norm_row { padding-bottom: 25px; display: block; }
+	
+	.mainbanner-bar.compare.resheight { min-height: inherit; }
+	
+	.comparison-bar .restulbox .mobielcontent { display: block; }
+	.comparison-bar .restulbox .nomobilecontent { display: none; }
+	
+}
+
+@media screen and (max-width: 479px) { 
+	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
